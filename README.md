@@ -4,7 +4,7 @@ The Above repository is a full time course of Engineering Chemistry which is tau
 
 Course has been Provided and Instructed in VIT BHOPAL UNIVERSITY by Dr. Sumit Mittal. 
 
-# Course OverView
+# OverView and Topics Covered
 1)
 Types of impurities in water – Types of Hardness in boiler water. Alkalinity of water and its estimation; Estimation of hardness by EDTA method-Numerical problems; Scale, Sludge, Reasons for the formation of scale and Removal. Boiler water purification by ion-exchange resin method. Specifications for potable water – Drinking water treatment – Disinfection by chlorination, ozonisation and UV treatment; Sea water to drinking water conversion - Reverse osmosis & its significance
 
