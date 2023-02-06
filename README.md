@@ -33,5 +33,5 @@ Energy sources: Fuels-Definition. Calorific value - Definition of LCV, HCV. Meas
 Industrial and Conducting polymers: Introduction to PolymersClassification. Types of Polymerization (Chain & Step growth); Properties and engineering applications of BS, PVC, PMMA, PET, Teflon and Bakelite. Compression, injection, extrusion, Transfer moulding methods of plastics. Fiber reinforced composites - Properties and applications in automobiles and aerospace. Second Law of thermodynamics and entropy in recycling of plastics like PMMA. Introduction to metallic conductors. Conducting polymers: Polyacetylene and Polyaniline - Mechanism of Conduction, doping, Electrical characterization, applications of conducting polymers in semiconductor field.
 
 
-#These are great Material to provide free education to the community by me.
+### These are great Material to provide free education to the community by me under an open source license.
 
